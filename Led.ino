@@ -9,6 +9,6 @@ void loop() {
     digitalWrite(LED_PIN, HIGH);
     delay(1000);
     // Led Off
-    digitalWrite(LED_GREEN_PIN, LOW);
+    digitalWrite(LED_PIN, LOW);
     delay(1000);
 }
